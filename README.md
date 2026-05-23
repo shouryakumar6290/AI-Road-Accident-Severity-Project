@@ -89,7 +89,7 @@ You can also visualize results through graphs.
 
 ## 👨‍💻 Author
 
-Shourya Kumar
+Built with ❤️ by Shourya Kumar.
 
 ---
 
