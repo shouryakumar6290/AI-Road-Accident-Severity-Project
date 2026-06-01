@@ -1,4 +1,4 @@
-# 🚗 AI Road Accident Severity Prediction
+ 🚗 AI Road Accident Severity Prediction
 
 ## 📌 Overview
 
